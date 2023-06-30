@@ -1,7 +1,6 @@
 OkayCMS
 ----------------------
 
-
 OkayCMS is PHP CMS for creating backend and frontend applications.
 
  - Homepage:        [https://okay-cms.com](https://okay-cms.com)
